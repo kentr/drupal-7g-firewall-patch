@@ -10,9 +10,9 @@ whomever they list as contributors.
 
 I don't vouch for the utility or functionality of the firewall rules on
 a Drupal site. I've used it for years on my site without any
-issues save for an edit to allow access to files under the `system`
-directory. Thanks to the folks at Perishable Press, that change was
-added to newer versions of the firewall.
+issues with the exception of an edit to allow access to files under the 
+`system` directory. Thanks to the folks at Perishable Press, that change 
+was added to newer versions of the firewall.
 
 ## Usage
 
